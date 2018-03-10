@@ -3,6 +3,12 @@
 void main(){
 
    printf("Hello world!");
-   Printf("Hello again");
+   printf("Hello again");
+   printf("Hello again again");
 
+}
+
+calc_divide(int x, int y){
+
+   return x/y;
 }
